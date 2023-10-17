@@ -33,7 +33,7 @@ charset-normalizer==2.1.1
 clearml==1.4.1
 clearml-agent==1.2.3
 cliapp==1.20180812.1
-click==8.0.4
+click==8.1.7
 cloudpickle==2.0.0
 cmdtest==0.32+git
 colorama==0.4.4
@@ -73,6 +73,7 @@ GitPython==3.1.30
 google-auth==2.16.0
 google-auth-oauthlib==0.4.6
 grpcio==1.51.1
+gunicorn==21.2.0
 gym==0.20.0
 gym-notices==0.0.8
 httplib2==0.20.2
@@ -258,7 +259,7 @@ wcwidth==0.2.5
 webcolors==1.13
 webencodings==0.5.1
 websocket-client==1.5.1
-Werkzeug==2.2.2
+Werkzeug==3.0.0
 wordcloud==1.8.2.2
 wrapt==1.12.1
 xdg==5
